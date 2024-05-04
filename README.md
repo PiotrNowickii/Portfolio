@@ -21,7 +21,7 @@ Parts of the game I was responsible for:
 * Tower purchase spot
 * Setting up the player animations
 
-#Currently worked on projects
+# Currently worked on projects
 * Space detour
   A 2d survival RPG game where the player crash lands on an alien planet. The player has to gather resources, complete quests and explore to rebuild their ship and escape.
 * Sokoban-like game
