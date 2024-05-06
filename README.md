@@ -6,7 +6,8 @@ It was my first game that I've worked on so there might be things that I would h
 Videos presenting the game:
 - [Level 1](https://drive.google.com/file/d/1u-X-pZVc1Pkdpnpt1kiGG9JTFNxoVFKR/view?usp=sharing)
 - [Level 2](https://drive.google.com/file/d/15P5Wn_FSLBqT_WkBuzkf3kqvYDRjRV9l/view?usp=sharing)
-- [Level 3](https://drive.google.com/file/d/1Pv503FmKndqtMmk44P_ZcE0hEaoH1ZNr/view?usp=sharing)  
+- [Level 3](https://drive.google.com/file/d/1Pv503FmKndqtMmk44P_ZcE0hEaoH1ZNr/view?usp=sharing)
+    
 Parts of the game I was responsible for:
 * Collapsing and dropdown platforms
 * Collectibles (health and strength potions, coins, diamonds, keys)
