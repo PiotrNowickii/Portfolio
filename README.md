@@ -30,4 +30,4 @@ Parts of the game I was responsible for:
 * Space Detour  
   A 2d survival RPG game where the player crash lands on an alien planet. The player has to gather resources, complete quests and explore to rebuild their ship and escape.
 * Sokoban-like game  
-  A puzzle game for my game development class assignmnet, for which I'm going to be using Unity's New Input System and Command Pattern
+  A puzzle game for my game development class assignment, for which I'm going to be using Unity's New Input System and Command Pattern
