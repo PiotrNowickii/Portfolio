@@ -3,6 +3,7 @@ Welcome to my portfolio, in this repository you can find the scripts I worked on
 # 2. Space Detour
 A 2D RPG with survival mechanics. The player character crash lands on an alien planet and has to gather resources, complete quests and explore to rebuild their ship and escape. The game was made in a 4 person team (3 programmers, 1 artist).
 * [Short trailer](https://www.youtube.com/watch?v=idnaFfqavFo)
+* 
 Parts of the game I was responsible for:
 * Inventory system
 * Hotbar
