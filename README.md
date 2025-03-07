@@ -1,7 +1,7 @@
 # Peter Nowicki's portfolio
 Welcome to my portfolio, in this repository you can find the scripts I worked on for the projects that I was part of so far.
 # 2. Space Detour
-A 2D RPG with survival mechanics. The player character crash lands on an alien planet and has to gather resources, complete quests and explore to rebuild their ship and escape. The game was made in a 4 person team (3 programmers, 1 artist).
+A 2D RPG with survival mechanics. The player character crash lands on an alien planet and has to gather resources, complete quests and explore to rebuild their ship and escape. The game was made in a 4 person team (3 programmers, 1 artist). Due to the fact that the game was made for my engineering thesis, I cannot currently publish it anywhere for people to test. However, I should be able to do so, after the end of the next semester.
 * [Short trailer](https://www.youtube.com/watch?v=idnaFfqavFo)
 
 Parts of the game I was responsible for:
@@ -34,7 +34,7 @@ Parts of the game I was responsible for:
 * Water and boat platforms
 * Enemy scripts (chase, patrol, attack)
 * The design of the 2nd level
-# 2. Hunger vs Zombies
+# 4. Hunger vs Zombies
 A cooking/tower-defence game inspired by "Plants vs Zombies" and "Overcooked". Made during the 2023-24 PJATK Game Jam in a team which consisted of 3 programmers and 2 artists.  
 * [Gameplay video](https://drive.google.com/file/d/1oIaVX-L9_gUsVo1JnREoBILcnXQzm57o/view?usp=sharing)
 
