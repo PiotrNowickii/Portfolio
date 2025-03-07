@@ -1,6 +1,22 @@
 # Peter Nowicki's portfolio
 Welcome to my portfolio, in this repository you can find the scripts I worked on for the projects that I was part of so far.
-# 1. A quest for a jar of dirt
+# 2. Space Detour
+A 2D RPG with survival mechanics. The player character crash lands on an alien planet and has to gather resources, complete quests and explore to rebuild their ship and escape. The game was made in a 4 person team (3 programmers, 1 artist).
+* [Short trailer](https://www.youtube.com/watch?v=idnaFfqavFo)
+Parts of the game I was responsible for:
+* Inventory system
+* Hotbar
+* Skill system
+* Building system
+* Item system
+* Crafting system
+* Mining system
+* Tutorial popups
+* Item added indicator
+* Turn-in quest pointer
+* Some of the quest scripts
+* A couple of sprites including the crafting table and "multitool"
+# 3. A quest for a jar of dirt
 A simple platformer created in a team of four, for our game development class 8-week project. Almost all of the assets used came from the [Treasure Hunters](https://pixelfrog-assets.itch.io/treasure-hunters) asset pack created by Pixel Frog.
 It was my first game that I've worked on so there might be things that I would have currently done differently. 
 Videos presenting the game:
@@ -27,9 +43,3 @@ Parts of the game I was responsible for:
 * Cooking scripts
 * Tower purchase spot
 * Setting up the player animations
-
-# Currently worked on projects
-* Space Detour  
-  A 2d survival RPG game where the player crash lands on an alien planet. The player has to gather resources, complete quests and explore to rebuild their ship and escape.
-* Sokoban-like game  
-  A puzzle game for my game development class assignment, for which I'm going to be using Unity's New Input System and Command Pattern
