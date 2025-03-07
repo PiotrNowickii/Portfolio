@@ -1,5 +1,6 @@
 # Peter Nowicki's portfolio
 Welcome to my portfolio, in this repository you can find the scripts I worked on for the projects that I was part of so far.
+# 1. Oil City
 # 2. Space Detour
 A 2D RPG with survival mechanics. The player character crash lands on an alien planet and has to gather resources, complete quests and explore to rebuild their ship and escape. The game was made in a 4 person team (3 programmers, 1 artist). Due to the fact that the game was made for my engineering thesis, I cannot currently publish it anywhere for people to test. However, I should be able to do so, after the end of the next semester.
 * [Short trailer](https://www.youtube.com/watch?v=idnaFfqavFo)
