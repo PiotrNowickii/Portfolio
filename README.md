@@ -3,6 +3,16 @@ Welcome to my portfolio, in this repository you can find the scripts I worked on
 # 1. Oil City
 A 2D strategy game, made for the "Dialogue of Civilizations: Poland in Pixels" project, where students from PJAIT (Polish-Japanese Academy of Information Technology in Warsaw) and NU (Northeastern University in Boston) worked together to make games promoting Polish culture. The game was developed under the guidance of mentors from various game development companies, including 11 Bit Studios, Techland, and Bloober Team.
 * [Link to the game](https://romulus162.itch.io/oil-city)
+* [Link to the project](https://pja.edu.pl/en/poland-in-pixels/)
+
+Parts of the game I was responsible for include, but are not limited to
+* Woodcutter logic
+* Civilian building logic
+* Geologist logic
+* Entertainment building logic
+* Quota system
+* Money popups
+* Setting up the UI
 # 2. Space Detour
 A 2D RPG with survival mechanics. The player character crash lands on an alien planet and has to gather resources, complete quests and explore to rebuild their ship and escape. The game was made in a 4 person team (3 programmers, 1 artist). Due to the fact that the game was made for my engineering thesis, I cannot currently publish it anywhere for people to test. However, I should be able to do so, after the end of the next semester.
 * [Short trailer](https://www.youtube.com/watch?v=idnaFfqavFo)
