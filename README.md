@@ -30,7 +30,21 @@ Parts of the game I was responsible for:
 * Turn-in quest pointer
 * Some of the quest scripts
 * A couple of sprites including the crafting table and "multitool"
-# 3. A quest for a jar of dirt
+# 3. The Castle
+A simple adventure game created during the "Culture Jam 2024: Austria" Game jam in a 10-person team consisting of 2 designers, 4 artists and 4 programmers where I was the lead programmer. The WebGL version of the game has problem with sorting layers and the final cutscene not playing, however the issues are not present in the regular executable version.
+* [Short trailer](https://www.youtube.com/watch?v=PQRThWgd27o)
+
+Parts of the game I was responsible for:
+* Movement between areas
+* Journal system
+* Interaction with objects
+* Using word from journal on objects
+* Popups
+* Creating some of the areas
+* Entire bar event
+* UI
+
+# 4. A quest for a jar of dirt
 A simple platformer created in a team of four, for our game development class 8-week project. Almost all of the assets used came from the [Treasure Hunters](https://pixelfrog-assets.itch.io/treasure-hunters) asset pack created by Pixel Frog.
 It was my first game that I've worked on so there might be things that I would have currently done differently. 
 Videos presenting the game:
@@ -47,7 +61,7 @@ Parts of the game I was responsible for:
 * Water and boat platforms
 * Enemy scripts (chase, patrol, attack)
 * The design of the 2nd level
-# 4. Hunger vs Zombies
+# 5. Hunger vs Zombies
 A cooking/tower-defence game inspired by "Plants vs Zombies" and "Overcooked". Made during the 2023-24 PJATK Game Jam in a team which consisted of 3 programmers and 2 artists.  
 * [Gameplay video](https://drive.google.com/file/d/1oIaVX-L9_gUsVo1JnREoBILcnXQzm57o/view?usp=sharing)
 
