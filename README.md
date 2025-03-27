@@ -70,4 +70,3 @@ Parts of the game I was responsible for:
 * Kitchen elements (item boxes, the mixer, the sink, the weapon case)
 * Cooking scripts
 * Tower purchase spot
-* Setting up the player animations
