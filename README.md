@@ -13,7 +13,21 @@ Parts of the game I was responsible for include, but are not limited to
 * Quota system
 * Money popups
 * Setting up the UI
-# 2. Space Detour
+# 2. Filleter
+A 2D game made during the "Game Lab Schrodinger Jam 2025" Game jam in a 10-person team consisting of 2 designers, 5 artists and 3 programmers where I was the lead programmer. **The game won 1st place**.
+* [Link to the game](https://romulus162.itch.io/schrodingers-fish)
+* [Link to the Game Jam](https://itch.io/jam/gamelab-shrodinger-2025)
+
+Parts of the game I was responsible for:
+* QTE system
+* All of the fish types, including their rotten variants
+* Timer system
+* Player controls
+* Implementing the animations
+* Game over screen
+* Tutorial popup
+* Pause menu
+# 3. Space Detour
 A 2D RPG with survival mechanics. The player character crash lands on an alien planet and has to gather resources, complete quests and explore to rebuild their ship and escape. The game was made in a 4 person team (3 programmers, 1 artist). Due to the fact that the game was made for my engineering thesis, I cannot currently publish it anywhere for people to test. However, I should be able to do so, after the end of the next semester.
 * [Short trailer](https://www.youtube.com/watch?v=idnaFfqavFo)
 
@@ -30,9 +44,10 @@ Parts of the game I was responsible for:
 * Turn-in quest pointer
 * Some of the quest scripts
 * A couple of sprites including the crafting table and "multitool"
-# 3. The Castle
+# 4. The Castle
 A simple adventure game created during the "Culture Jam 2024: Austria" Game jam in a 10-person team consisting of 2 designers, 4 artists and 4 programmers where I was the lead programmer. The WebGL version of the game has problem with sorting layers and the final cutscene not playing, however the issues are not present in the regular executable version.
 * [Short trailer](https://www.youtube.com/watch?v=PQRThWgd27o)
+* [Link to the Game Jam](https://itch.io/jam/culture-jam-austria)
 
 Parts of the game I was responsible for:
 * Movement between areas
@@ -44,7 +59,7 @@ Parts of the game I was responsible for:
 * Entire bar event
 * UI
 
-# 4. A quest for a jar of dirt
+# 5. A quest for a jar of dirt
 A simple platformer created in a team of four, for our game development class 8-week project. Almost all of the assets used came from the [Treasure Hunters](https://pixelfrog-assets.itch.io/treasure-hunters) asset pack created by Pixel Frog.
 It was my first game that I've worked on so there might be things that I would have currently done differently. 
 Videos presenting the game:
@@ -61,7 +76,7 @@ Parts of the game I was responsible for:
 * Water and boat platforms
 * Enemy scripts (chase, patrol, attack)
 * The design of the 2nd level
-# 5. Hunger vs Zombies
+# 6. Hunger vs Zombies
 A cooking/tower-defence game inspired by "Plants vs Zombies" and "Overcooked". Made during the 2023-24 PJATK Game Jam in a team which consisted of 3 programmers and 2 artists.  
 * [Gameplay video](https://drive.google.com/file/d/1oIaVX-L9_gUsVo1JnREoBILcnXQzm57o/view?usp=sharing)
 
