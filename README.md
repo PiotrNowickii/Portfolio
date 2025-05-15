@@ -1,5 +1,5 @@
 # Peter Nowicki's portfolio
-Welcome to my portfolio, in this repository you can find the scripts I worked on for the projects that I was part of so far.
+Welcome to my portfolio, in this repository you can find information about the projects that I was part of so far.
 # 1. Oil City
 A 2D strategy game, made for the "Dialogue of Civilizations: Poland in Pixels" project, where students from PJAIT (Polish-Japanese Academy of Information Technology in Warsaw) and NU (Northeastern University in Boston) worked together to make games promoting Polish culture. The game was developed under the guidance of mentors from various game development companies, including 11 Bit Studios, Techland, and Bloober Team.
 * [Link to the game](https://romulus162.itch.io/oil-city)
