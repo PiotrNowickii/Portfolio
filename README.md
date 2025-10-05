@@ -85,3 +85,6 @@ Parts of the game I was responsible for:
 * Kitchen elements (item boxes, the mixer, the sink, the weapon case)
 * Cooking scripts
 * Tower purchase spot
+# 7. Generatron
+Game created using java, as a project for my Modeling and analysis of information systems class. The projects aim was to design and implement a game based on a conceptual model, transforming initial requirements and analysis into a fully working software application.
+* [Link to the project files](https://github.com/PiotrNowickii/MASJavaProject)
