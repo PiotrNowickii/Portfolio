@@ -88,3 +88,6 @@ Parts of the game I was responsible for:
 # 7. Generatron
 Game created using java, as a project for my Modeling and analysis of information systems class. The projects aim was to design and implement a game based on a conceptual model, transforming initial requirements and analysis into a fully working software application.
 * [Link to the project files](https://github.com/PiotrNowickii/MASJavaProject)
+
+#Current project - "Untitled 3D game"
+3D Unity management game, utilizing physics to cook and create different recipes for customers.
